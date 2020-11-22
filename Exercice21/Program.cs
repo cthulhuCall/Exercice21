@@ -11,7 +11,7 @@ namespace Exercice21
         static void Main(string[] args)
         {
             char couleur;
-
+            // boucle sur le choix des couleurs tant que le bon caractère n'a pas été saisi
             do
             {
                 Console.Write("Saisir une couleur de feu (Rouge=Rouge/O=Orange/V=Vert) = ");
